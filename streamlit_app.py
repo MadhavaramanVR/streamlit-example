@@ -12,7 +12,6 @@ c1, c2 = st.columns([1, 8])
 
 with c1:
     st.image(
-        "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/chart-increasing_1f4c8.png",
         width=90,
     )
 
